@@ -1,0 +1,9 @@
+.count{   
+    height: 720px;
+    width: 1515px;
+    text-align:center;
+    font-size:50px;
+    color:rgb(31, 5, 90);
+    padding-top:300px;
+    background-image:linear-gradient(to bottom right,rgb(255, 151, 54),rgb(245, 243, 243),rgb(6, 92, 6));
+}
